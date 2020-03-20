@@ -13,3 +13,11 @@ img {
 .box-model {
     margin-top: 100px;
 }
+
+.highlight {
+    color: blue;
+}
+
+body {
+    background-color: lightgray;
+}
