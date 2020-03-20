@@ -9,3 +9,7 @@ img {
 .center-text {
     text-align: center;
 }
+
+.box-model {
+    margin-top: 100px;
+}
