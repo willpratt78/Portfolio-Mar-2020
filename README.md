@@ -12,6 +12,7 @@ This application is used as a way to see the work I've done, the skills I've gai
 
 * Download the file
 * Open in a web browser
+* or go to https://willpratt78.github.io/Portfolio/
 
 ## Known Bugs
 
